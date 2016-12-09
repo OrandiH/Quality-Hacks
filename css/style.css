@@ -1,0 +1,127 @@
+/*
+Green   #82ae40
+Blue    #3B90DD
+
+*/
+
+
+.home{
+	background-color: #440058;
+	min-height: 100vh;
+	transition: background-color linear 1s;
+}
+
+.home h1{
+	font-family: Raleway;
+	color: #fff;
+	margin: 0;
+	font-weight: 800;
+	line-height: 100vh;
+	text-align: center;
+	font-style: normal;
+}
+
+
+.question{
+	font-family: Raleway;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.option{
+	position: relative;
+	float: : left;
+	padding: 40px;
+	width: 20%;
+	display: inline;
+}
+
+.answers label{
+	font-size: 20px !important;
+	/*color./*/
+
+}
+
+
+.container{
+	width: 80%;
+}
+
+.about{
+	min-height: 100vh;
+	background-color: #3B90DD;
+}
+.about h1{
+	line-height: 100vh;
+	text-align: center;
+	margin: 0;
+	font-family: Raleway;
+	font-weight: 900;
+	color: #fff;
+}
+
+.modules{
+	min-height: 100vh;
+	height: 100%;
+	background-color: #3B90DD;
+	font-family: Raleway;
+}
+
+.modules h1{
+	text-align: center;
+	margin: 0;
+	font-family: Raleway;
+	font-weight: 900;
+	color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.modules .intro{
+	font-size: 20px;
+	color: #fff;
+}
+
+.modules .card-title{
+	color: #3B90DD;
+	font-weight: 600;
+}
+
+.modules .card-action a{
+	color: #82ae40 !important;
+	font-weight: 600;
+}
+
+.course-page{
+	font-family: Raleway;
+	margin-bottom: 0;
+}
+.collapsible-header.active{
+	background-color: #3B90DD;
+	color: #fff;
+}
+.collapsible-header{
+	color: #82ae40;
+	font-weight: 600;
+	font-size: 30px;
+	min-height: 80px; 
+	line-height: 80px;
+}
+
+.collection .collection-item.active{
+	background-color: #82ae40;
+}
+
+
+.course-page > .col{
+	margin: 0;
+	padding: 0;
+}
+
+.collapsible{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+footer.page-footer{
+	margin-top: 0px;
+	background-color: #82ae40;
+}
